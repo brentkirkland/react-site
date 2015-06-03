@@ -8,11 +8,10 @@ var App = module.exports = React.createClass({
   render: function() {
     return (
       <div className="container">
-        <h1>App</h1>
         <ul>
-          <li><Link to="index">Home</Link></li>
-          <li><Link to="foo">Foo</Link></li>
-          <li><Link to="bar">Bar</Link></li>
+          <li><Link to="index">Brent Kirkland</Link></li>
+          <li><Link to="foo">Portfolio</Link></li>
+          <li><Link to="bar">Github</Link></li>
         </ul>
         {this.props.activeRouteHandler()}
       </div>
