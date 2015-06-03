@@ -1,6 +1,9 @@
-React Boilerplate
+React Site
 =================
 
+
+
+Initialized with React-Boiler plate by [Rackt]((https://github.com/rackt/react-boilerplate))
 Uses:
 
 - [React Router](https://github.com/rackt/react-router)
